@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "stareech",
+  "ingredients": [
+    {
+      "item": "fragment:stareech_dust"
+    },
+    {
+      "item": "fragment:stareech_dust"
+    },
+    {
+      "item": "fragment:stareech_dust"
+    },
+    {
+      "item": "fragment:stareech_dust"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "fragment:stareech"
+  }
+}

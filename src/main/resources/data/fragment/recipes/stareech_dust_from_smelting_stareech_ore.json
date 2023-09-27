@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 420,
+  "experience": 5,
+  "group": "stareech",
+  "ingredient": {
+    "item": "fragment:stareech_ore"
+  },
+  "result": "fragment:stareech_dust"
+}

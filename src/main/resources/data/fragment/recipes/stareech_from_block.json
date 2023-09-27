@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "fragment:stareech_block"
+    }
+  ],
+  "result": {
+    "item": "fragment:stareech",
+    "count": 9
+  }
+}

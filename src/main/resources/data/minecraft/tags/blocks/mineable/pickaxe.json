@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "fragment:stareech_block",
+    "fragment:stareech_ore"
+  ]
+}

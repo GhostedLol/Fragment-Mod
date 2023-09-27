@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 8,
+  "group": "stareech",
+  "ingredient": {
+    "item": "fragment:stareech_ore"
+  },
+  "result": "fragment:stareech_dust"
+}
