@@ -19,15 +19,15 @@ public class ModItems {
     public static final RegistryObject<Item> HASTER = ITEMS.register("haster",
             () -> new Item(new Item.Properties().food(ModFoodProperties.HASTER)));
     public static final RegistryObject<Item> STAREECH_SWORD = ITEMS.register("stareech_sword",
-            () -> new SwordItem(ModToolTiers.STAREECH, 3, 6, new Item.Properties()));
+            () -> new SwordItem(ModToolTiers.STAREECH, 3, 3, new Item.Properties().durability(256)));
     public static final RegistryObject<Item> STAREECH_PICKAXE = ITEMS.register("stareech_pickaxe",
-            () -> new PickaxeItem(ModToolTiers.STAREECH, 1, 5, new Item.Properties()));
+            () -> new PickaxeItem(ModToolTiers.STAREECH, 1, 2, new Item.Properties().durability(256)));
     public static final RegistryObject<Item> STAREECH_SHOVEL = ITEMS.register("stareech_shovel",
-            () -> new ShovelItem(ModToolTiers.STAREECH, 1, 5, new Item.Properties()));
+            () -> new ShovelItem(ModToolTiers.STAREECH, 1, 2, new Item.Properties().durability(256)));
     public static final RegistryObject<Item> STAREECH_AXE = ITEMS.register("stareech_axe",
-            () -> new AxeItem(ModToolTiers.STAREECH, 6, 3, new Item.Properties()));
+            () -> new AxeItem(ModToolTiers.STAREECH, 6, 1, new Item.Properties().durability(256)));
     public static final RegistryObject<Item> STAREECH_HOE = ITEMS.register("stareech_hoe",
-            () -> new HoeItem(ModToolTiers.STAREECH, 1, 10, new Item.Properties()));
+            () -> new HoeItem(ModToolTiers.STAREECH, 1, 10, new Item.Properties().durability(256)));
 
 
 
